@@ -1,0 +1,38 @@
+# ========== 2024-12-09 13:28:40 =========={airHumValue=39.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 13:28:39:988, airTemValue=25.7, sensorState=0}
+
+# ========== 2024-12-09 13:58:39 =========={airHumValue=42.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 13:58:39:882, airTemValue=23.8, sensorState=0}
+
+# ========== 2024-12-09 14:28:39 =========={airHumValue=27.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 14:28:39:971, airTemValue=32.9, sensorState=0}
+
+# ========== 2024-12-09 14:58:39 =========={airHumValue=33.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 14:58:39:838, airTemValue=29.0, sensorState=0}
+
+# ========== 2024-12-09 15:28:39 =========={airHumValue=35.7, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 15:28:39:794, airTemValue=27.5, sensorState=0}
+
+# ========== 2024-12-09 15:58:39 =========={airHumValue=41.0, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 15:58:39:684, airTemValue=25.0, sensorState=0}
+
+# ========== 2024-12-09 16:28:39 =========={airHumValue=47.4, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 16:28:39:653, airTemValue=23.1, sensorState=0}
+
+# ========== 2024-12-09 16:58:39 =========={airHumValue=53.0, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 16:58:39:725, airTemValue=21.5, sensorState=0}
+
+# ========== 2024-12-09 17:28:39 =========={airHumValue=60.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 17:28:39:551, airTemValue=19.7, sensorState=0}
+
+# ========== 2024-12-09 17:58:39 =========={airHumValue=65.5, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 17:58:39:647, airTemValue=18.2, sensorState=0}
+
+# ========== 2024-12-09 18:28:37 =========={airHumValue=69.6, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-09 18:28:37:102, airTemValue=17.5, sensorState=0}
+
+# ========== 2024-12-10 09:18:33 =========={airHumValue=64.9, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 09:18:33:436, airTemValue=20.7, sensorState=0}
+
+# ========== 2024-12-10 09:48:33 =========={airHumValue=58.7, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 09:48:33:216, airTemValue=22.1, sensorState=0}
+
+# ========== 2024-12-10 10:18:33 =========={airHumValue=52.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 10:18:33:249, airTemValue=23.0, sensorState=0}
+
+# ========== 2024-12-10 10:48:33 =========={airHumValue=49.2, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 10:48:33:254, airTemValue=24.8, sensorState=0}
+
+# ========== 2024-12-10 11:18:33 =========={airHumValue=44.0, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 11:18:33:320, airTemValue=26.7, sensorState=0}
+
+# ========== 2024-12-10 11:48:33 =========={airHumValue=39.9, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 11:48:33:111, airTemValue=28.6, sensorState=0}
+
+# ========== 2024-12-10 13:48:33 =========={airHumValue=34.7, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 13:48:33:792, airTemValue=31.2, sensorState=0}
+
+# ========== 2024-12-10 14:18:33 =========={airHumValue=36.4, sensorName=0101, imei=863697079012562, updateUser=设备消息上报, rptTime=2024-12-10 14:18:33:555, airTemValue=30.8, sensorState=0}
+
